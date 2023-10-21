@@ -14,13 +14,19 @@
 
 该页面可修改主题配置。
 
+![url_setting_screen_sample](url_setting_screen_sample.png)
+
 ## 登录页
 
 支持 GitHub 授权注册/登录。
 
+该页面可修改主题配置。
+
+![login_screen_sample](login_screen_sample.png)
+
 在完成注册/登录后，进行音乐平台账号登录引导，引导步骤可跳过。
 
-该页面可修改主题配置。
+![music_platform_link_guide_screen_sample](music_platform_link_guide_screen_sample.png)
 
 ## 主页
 
@@ -35,7 +41,7 @@
 - 歌曲搜索框
 - 歌曲播放框
 
-![main_sample](main_sample.png)
+![main_screen_sample](main_screen_sample.png)
 
 主页承载客户端的主要功能，并分摊到对应模块中。
 

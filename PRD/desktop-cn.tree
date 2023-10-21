@@ -7,5 +7,6 @@
                  start-page="starter-topic.md">
 
     <toc-element topic="pages.md"/>
+    <toc-element topic="server_url.md"/>
     <toc-element topic="account.md"/>
 </instance-profile>
