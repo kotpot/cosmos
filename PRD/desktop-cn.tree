@@ -9,4 +9,7 @@
     <toc-element topic="pages.md"/>
     <toc-element topic="server_url.md"/>
     <toc-element topic="account.md"/>
+    <toc-element topic="setting.md"/>
+    <toc-element topic="room.md"/>
+    <toc-element topic="songs.md"/>
 </instance-profile>
