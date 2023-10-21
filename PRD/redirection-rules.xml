@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="3934c59a">
+        <description>Created after removal of "Reference" from Cosmos</description>
+        <accepts>Reference.html</accepts>
+    </rule>
+    <rule id="6940a038">
+        <description>Created after removal of "How to use WriteSide" from Cosmos</description>
+        <accepts>starter-topic.html</accepts>
+    </rule>
+    <rule id="3f2e2abf">
+        <description>Created after removal of "Empty MD Topic" from CN</description>
+        <accepts>Empty-MD-Topic.html</accepts>
+    </rule>
+    <rule id="9bb190b">
+        <description>Created after removal of "服务地址配置" from Desktop CN</description>
+        <accepts>server_url_setting.html</accepts>
+    </rule>
+</rules>
