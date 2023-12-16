@@ -1,2 +1,5 @@
 # cosmos-docs
-TODO
+
+### PRD LINK
+
+https://kotpot.github.io/cosmos/prd/desktop/pages.html
