@@ -4,13 +4,11 @@
 
 <instance-profile id="desktop-cn"
                  name="Desktop CN"
-                 start-page="starter-topic.md">
+                 start-page="pages.md">
 
     <toc-element topic="pages.md"/>
     <toc-element topic="server_url.md"/>
     <toc-element topic="account.md"/>
-    <toc-element topic="songs.md"/>
-    <toc-element topic="room.md">
+    <toc-element topic="fun.md">
     </toc-element>
-    <toc-element topic="setting.md"/>
 </instance-profile>
